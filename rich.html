@@ -1,0 +1,80 @@
+I apologize for the oversight. Let's modify the style to incorporate the white and gold color scheme you requested. Here's the updated HTML code with the white and gold color scheme:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Richmond Ofori - Crop Scientist and Counselor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            color: #6b5848; /* gold color */
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        .header p {
+            font-size: 1.2em;
+            color: #a38f79; /* lighter gold color */
+        }
+        .content {
+            padding: 20px;
+        }
+        .content p {
+            font-size: 1.1em;
+            line-height: 1.8;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #a38f79; /* lighter gold color */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Richmond Ofori</h1>
+            <p>Crop Scientist and Counselor</p>
+        </div>
+        <div class="content">
+            <h2>About Me</h2>
+            <p>I am a crop scientist and counselor with a strong educational background. I graduated from the University of Ghana with both a Bachelor's and a Master's degree. My expertise lies in crop research and counseling.</p>
+            
+            <h2>Contact Me</h2>
+            <p>Email: <a href="mailto:richmondofori758@gmail.com">richmondofori758@gmail.com</a></p>
+            
+            <h2>Professional Experience</h2>
+            <p>I have extensive experience in agricultural research, specializing in crop science. Additionally, I provide counseling services to individuals seeking personal and professional guidance.</p>
+            
+            <h2>Education</h2>
+            <p>Bachelor's and Master's degrees in Crop Science from the University of Ghana.</p>
+        </div>
+        <div class="footer">
+            <p>&copy; 2024 Richmond Ofori. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
+```
+
